@@ -1,0 +1,67 @@
+html{
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+}
+
+/* Main */
+	#contact{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		padding-top: 60px;
+		/*background: url('../img/main.jpg') center center no-repeat;
+		background-size: cover;*/
+	}
+	#contact-bg{
+		position: absolute;
+		margin-top: 60px;
+		width: 100%;
+	}
+	#contact-info{
+		padding: 1% 5%;
+		text-align: center;
+	}
+	#contact-map{
+		padding: 3% 5%;
+		text-align: center;
+	}
+	#contact-title{
+		width: 80%;
+		margin-bottom: 10%;
+	}
+	#contact-info p{
+		font-size: 20px;
+	}
+	#contact-info strong{
+		font-family: Geomanist-Medium;
+	}
+	#contact-info span{
+		color: #F47920;
+	}
+	#contact-logo{
+		width: 50%;
+		margin-top: 10%;
+	}
+	#scenario-1{
+		cursor: pointer;
+		margin-top: 5%;
+		width: 15%;
+	}
+	#scenario-2{
+		cursor: pointer;
+		margin-top: 5%;
+		margin-left: 5%;
+		width: 15%;
+	}
+	#scenario-3{
+		cursor: pointer;
+		margin-top: 5%;
+		margin-left: 5%;
+		width: 15%;
+	}

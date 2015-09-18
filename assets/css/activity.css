@@ -1,0 +1,82 @@
+html{
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+}
+
+/* Main */
+	#activity-name{
+		position: relative;
+		height: 50%;
+		width: 100%;
+		margin-top: 60px;
+		background: url('../img/activity-ex.jpg') center center no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	#activity-name h1{
+		position: absolute;
+		bottom: 1%;
+		left: 5%;
+		font-family: Geomanist-Medium;
+		font-size: 50px;
+		color: #fff;
+	}
+	#activity-name img{
+		position: absolute;
+		bottom: 2%;
+		right: 3%;
+		width: 7%;
+	}
+	#activity-info{
+		position: relative;
+		height: 75%;
+	}
+	#activity-info div{
+		padding: 1% 5% 0 5%;
+	}
+	#activity-info h1{
+		font-size: 25px;
+		margin-bottom: 5%;
+	}
+	#activity-info strong{
+		font-family: Geomanist-Medium;
+	}
+	#activity-info p{
+		line-height: 2;
+		font-size: 16px;
+	}
+	#activity-register{
+		text-align: center;
+	}
+	#activity-register img{
+		margin-top: 5%;
+		margin-bottom: 5%;
+		width: 100%;
+	}
+	#activity-register hr{
+		margin-top: 10px;
+		margin-bottom: 10px;
+   		border: 1px solid #F47920;
+	}
+	#activity-img{
+		cursor: pointer;
+		color: #000;
+		font-family: Brush-Italic; 
+		font-size: 80px !important;
+	}
+	#activity-img:hover{
+		color: #F47920;
+	}
+	.sponsor{
+		width: 100%;
+	}
+
+
+
+

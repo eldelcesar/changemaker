@@ -1,0 +1,64 @@
+@font-face { 
+	font-family: Geomanist-Regular; 
+	src: url('../fonts/Geomanist-Regular.otf');
+}
+@font-face { 
+	font-family: Geomanist-Medium; 
+	src: url('../fonts/Geomanist-Medium.otf');
+}
+@font-face { 
+	font-family: Brush-Italic; 
+	src: url('../fonts/so-brush-italic.ttf');
+}
+html{
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+	font-family: Geomanist-Regular;
+}
+/* Menu */
+	#menu-bar{
+		z-index: 1500;
+		position: fixed;
+		top: 0;
+		height: 60px;
+		width: 100%;
+		background-color: rgba(255,255,255,1);
+		font-family: Geomanist-Medium;
+	}
+	#menu-bar img{
+		width: 12%;
+		margin-left: 2%;
+		margin-top: 5px;
+	}
+	#menu-bar div{
+		cursor: pointer;
+		position: absolute;
+		text-align: right;
+	    width: 60%;
+	    top: 22.5px;
+	    right: 0;
+	    font-size: 15px;
+		color: rgb(180,180,180);
+	}
+	#menu-bar-options  p{
+		display: inline-block;
+		margin-right: 5%;
+		color: rgb(180,180,180);
+	}
+	#menu-bar-options a{
+		display: inline-block;
+		text-decoration: none;
+		margin-right: 5%;
+		color: rgb(0,0,0);
+		padding-bottom: 1.5%;
+	}
+	.active-bar{
+		border-bottom: 5px solid #F47920;
+	}
+

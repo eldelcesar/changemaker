@@ -1,0 +1,137 @@
+html{
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+}
+
+/* Main */
+	#program{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		padding-top: 70px;
+		/*background: url('../img/main.jpg') center center no-repeat;
+		background-size: cover;*/
+	}
+	#program-title{
+		width: 100%;
+		height: auto;
+	}
+	#program-title img{
+		position: relative;
+		width: 30%;
+		left: 36%;
+	}
+	#program-days{
+		position: relative;
+		margin-top: 2%;
+		height: 60px;
+		width: 100%;
+		text-align: center;
+	}
+	#program-scenario{
+		margin-top: -2%;
+		position: relative;
+		height: 60px;
+		width: 100%;
+		text-align: center;
+	}
+	.program-filter{
+		cursor: pointer;
+		position: relative;
+		display: inline-block;
+		left: 1%;
+		padding: 0.2% 1% 0 1%;
+		font-size: 15px;
+		color: rgb(255,255,255);
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
+	}
+	/*.program-filter:hover{
+		font-size: 17px;
+	}*/
+	#day-name{
+		color: rgba(0,0,0,0.2);
+		font-family: Geomanist-Medium;
+	}
+	#day-1{
+		background-color: #F15A24;
+	}
+	#day-2{
+		background-color: #EE7203;
+	}
+	#day-3{
+		background-color: #F39200;
+	}
+	#scenario-1{
+		background-color: #E6007D;
+	}
+	#scenario-2{
+		background-color: #971B81;
+	}
+	#scenario-3{
+		background-color: #1F386C;
+	}
+	#scenario-4{
+		background-color: #59B13E;
+	}
+	#scenario-name{
+		color: rgba(0,0,0,0.2);
+		font-family: Geomanist-Medium;
+	}
+	#program-activities{
+		position: relative;
+		height: 60px;
+		width: 60%;
+		left: 20%;
+		text-align: center;
+		color: rgb(0,0,0);
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
+	}
+	.program-option{
+		position: relative;
+		display: inline-block;
+		left: 1%;
+		padding: 2% 2%;
+		font-size: 20px;
+		font-family: Geomanist-Medium;
+		color: rgb(0,0,0);
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
+	}
+	.opacityChanger{
+		opacity: 0.1;
+	}
+	.people{
+		color: #971B81;
+	}
+	.tech{
+		color: #00B5DD;
+	}
+	.green{
+		color: #59B13E;
+	}
+	#footer-dots{
+		position: fixed;
+		bottom: 0;
+	}
+	#footer-dots img{
+		width: 100%;
+	}
+
+

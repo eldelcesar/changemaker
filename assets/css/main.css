@@ -1,0 +1,170 @@
+html{
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+}
+
+/* Main */
+	#main{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		/*background: url('../img/main.jpg') center center no-repeat;
+		background-size: cover;*/
+	}
+	#scene {
+	    display: block;
+	    list-style-type: disc;
+	    -webkit-margin-before: 0em;
+	    -webkit-margin-after: 0em;
+	    -webkit-margin-start: 0px;
+	    -webkit-margin-end: 0px;
+	    -webkit-padding-start: 0px;
+	    overflow: hidden;
+	    width: 100%;
+	}
+	.layer {
+	    width: 100%;
+	}
+	.layer img{
+	    width: 100%;
+	}
+
+/* Video */
+	#video{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		background-color: rgb(255,255,255);
+	}
+
+/* About */
+	#about{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		background-color: rgb(255,255,255);
+	}
+	#about-info{
+		padding: 5% 5%;
+		font-size: 17px;
+		text-align: center;
+		line-height: 2;
+	}
+	#about-info img{
+		width: 100%;
+		margin-bottom: 10%;
+	}
+	#ashoka-logo{
+		width: 50% !important;
+		margin-top: 10%;
+	}
+	#about-dots{
+		height: auto;
+		width: 115%;
+		margin-left: -12%;
+	}
+	
+/* Speakers */
+	#speakers{
+		position: relative;
+		min-height: 100%;
+		width: 100%;
+		padding-top: 70px;
+		background-color: rgb(255,255,255);
+	}
+	#speakers-dots{
+		position: absolute;
+		width: 100%;
+		top: -13%;
+	}
+	#speaker-1{
+		position: relative;
+		left: 2%;
+	}
+	#speaker-2{
+		position: relative;
+		left: 3%;
+	}
+	#speaker-3{
+		position: relative;
+		left: 4%;
+	}
+	#right{
+		position: absolute;
+		width: 20%;
+		right: 55%;
+		top: 80%;
+	}
+	#left{
+		position: absolute;
+		width: 20%;
+		right: 30%;
+		top: 80%;
+	}
+
+/* Sponsors */
+	#sponsors{
+		position: relative;
+		min-height: 100%;
+		height: auto;
+		width: 100%;
+		padding-top: 70px;
+		background-color: rgb(255,255,255);
+	}
+	#sponsors .row img{
+		margin-left: 15%;
+		width: 60%;
+	}
+	#sponsors-chmday{
+		position: relative;
+		width: 20%;
+		left: 40%;
+	}
+	#sponsors-logos{
+		position: relative;
+		padding: 5% 10%;
+	}
+	#sponsors-logos img{
+		width: 80%;
+		margin-bottom: 10%;	
+	}
+	#sponsors-dots{
+		position: absolute;
+		width: 100%;
+		bottom: -30%;
+	}
+
+/* Inters */
+	#inter-1{
+		/*position: relative;
+		min-height: 60%;
+		width: 100%;
+		background: url('../img/inter-1.jpg') center center no-repeat;
+		background-size: cover;
+		background-attachment: fixed;*/
+	}
+	#inter-2{
+		/*position: relative;
+		min-height: 60%;
+		width: 100%;
+		background: url('../img/inter-2.jpg') center center no-repeat;
+		background-size: cover;
+		background-attachment: fixed;*/
+	}
+
+@media (max-width: 991px){
+
+}
+
+@media (max-width: 767px) and (orientation: portrait){
+	
+}
+
+
+
