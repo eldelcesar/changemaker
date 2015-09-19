@@ -27,6 +27,7 @@
 		?>
 		
 		<!-- Main -->
+		<!-- Pantallazo con parallax, no tocar :)-->
 		<div id="main">
 			<ul id="scene">
 				<li class="layer" data-depth="0.10"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/slogan.png"></li>
@@ -65,6 +66,7 @@
 
 		<div id="speakers">
 			<img id="speakers-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/speakers-dots.svg"/>
+			<img id="speakers-prox" src="<?php echo ChangeMaker::$domain; ?>assets/img/speakers-prox.png">
 		</div>
 
 		<!--<div id="inter-2">
@@ -78,14 +80,16 @@
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ashoka-campus.svg"/></div>
 				</div>
 				<div class="row">
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
 				</div>
 			</div>
 			<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors-dots.svg"/>
 		</div>
+
+		<!-- Script para que funcione parallax, no tocar :)-->
 		<script type="text/javascript" src="<?php echo ChangeMaker::$domain; ?>assets/js/parallax.js"></script>
 		<script type="text/javascript">
 			var scene = document.getElementById('scene');

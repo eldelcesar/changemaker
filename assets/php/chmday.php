@@ -19,8 +19,8 @@ class ChangeMaker{
 	//static public $db_user 		= "";
 	//static public $db_password	= "";
 
-	//static public $domain = "http://localhost/changemaker/";
-	static public $domain = "http://www.changemakerday.com/";
+	static public $domain = "http://localhost/changemaker/";
+	//static public $domain = "http://www.changemakerday.com/";
 
 	static function menubar($logo){
 		echo

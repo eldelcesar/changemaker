@@ -29,11 +29,13 @@
 	<!-- Main -->
 	<div id="hack">
 		<ul id="scene">
-		  	<li class="layer" data-depth="0.50"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte1.svg"></li>
-		  	<li class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte2.svg"></li>
-		  	<li class="layer" data-depth="0.70"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte3.svg"></li>
-		  	<li class="layer" data-depth="0.80"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte4.svg"></li>
-		  	<li class="layer" data-depth="0.00"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/name.svg"></li>
+		  	<li class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte2.png"></li>
+		  	<li class="layer" data-depth="0.50"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte1.png"></li>
+		  	<li class="layer" data-depth="0.70"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte3.png"></li>
+		  	<li class="layer" data-depth="0.80"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte4.png"></li>
+		  	<li class="layer" data-depth="0.20"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/name.png"></li>
+		  	<li class="layer" data-depth="0.00"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/logo.png"></li>
+		  	<li class="layer" data-depth="0.40"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/date.png"></li>
 		  </ul>
 	</div>
 
@@ -81,10 +83,10 @@
 				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ashoka-campus.svg"/></div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
 				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
 				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
 			</div>
 		</div>
 		<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/sponsors-dots.svg"/>

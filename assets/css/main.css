@@ -78,6 +78,11 @@ body{
 		padding-top: 70px;
 		background-color: rgb(255,255,255);
 	}
+	#speakers-prox{
+		position: absolute;
+		top: -10%;
+		width: 100%;
+	}
 	#speakers-dots{
 		position: absolute;
 		width: 100%;

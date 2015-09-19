@@ -28,7 +28,8 @@
 
 		<!-- Program -->
 		<div id="press">
-			<div id="press-inner">
+			<img id="press-prox" src="<?php echo ChangeMaker::$domain; ?>assets/img/press-prox.png">
+			<!--<div id="press-inner">
 				<div id="section-1">
 					<div class="ui dimmer active main_dimmer section-dimmer">
 						<div class="content">
@@ -110,7 +111,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>-->
 		</div>
 	</body>
 </html>
