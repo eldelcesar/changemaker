@@ -52,7 +52,7 @@
 				<img src="<?php echo ChangeMaker::$domain; ?>assets/img/que-es.svg"/>
 				<p>Es la celebración de la innovación y el emprendimiento social, en la que la comunidad del 
 				campus tiene la oportunidad de acercarse a las problemáticas sociales, compartir puntos de vista y 
-				descubrir nuevas herramientas para la transformación.<br>
+				descubrir nuevas herramientas para la transformación.
 				Es un espacio de encuentro y diálogo cuyo objetivo es fortalecer el ecosistema de líderes con 
 				espíritu emprendedor y sentido humano, es decir, agentes de cambio.</p>
 				<img id="ashoka-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/ashoka-campus.svg"/>
