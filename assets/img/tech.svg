@@ -6,10 +6,22 @@
 	 xml:space="preserve">
 <rect x="-514" y="-35.868" fill="#1F386C" width="134" height="36"/>
 <rect x="-374" y="-35.868" fill="#59B13E" width="135" height="36"/>
-<text transform="matrix(0.9511 0 0 1 -474.9897 -8.7285)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">TECH</text>
-<text transform="matrix(0.9511 0 0 1 -343.1294 -8.7285)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">GREEN</text>
+<text transform="matrix(0.9511 0 0 1 -474.9897 -8.729)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">TECH</text>
+<text transform="matrix(0.9511 0 0 1 -343.1294 -8.729)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">GREEN</text>
 <rect x="-655" y="-35.868" fill="#971B81" width="134" height="36"/>
-<text transform="matrix(0.9511 0 0 1 -622.9897 -8.7285)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">SOCIAL</text>
-<ellipse fill="#1F386C" cx="257.91" cy="257.684" rx="248.91" ry="251.76"/>
-<text transform="matrix(0.9571 0 0 1 111.8799 301.4248)" fill="#FFFFFF" font-family="'Geomanist-Medium'" font-size="130.5752">TECH</text>
+<text transform="matrix(0.9511 0 0 1 -622.9897 -8.729)" fill="#FFFFFF" font-family="'Geomanist-Light'" font-size="25">SOCIAL</text>
+<g>
+	<ellipse fill="#1F386C" cx="257.91" cy="257.684" rx="248.91" ry="251.76"/>
+</g>
+<g enable-background="new    ">
+	<path fill="#FFFFFF" d="M134.999,226.608h-20.495v-16.582h58.485v16.582h-20.37v74.816h-17.621V226.608z"/>
+	<path fill="#FFFFFF" d="M184.113,210.026h44.989v16.582h-27.368v20.369h23.494v16.321h-23.494v21.674h28.493v16.452h-46.114
+		V210.026z"/>
+	<path fill="#FFFFFF" d="M239.6,255.725c0-26.897,19.245-47.397,45.613-47.397c11.623,0,20.37,4.048,25.994,8.356l-4.999,16.191
+		c-4.249-3.134-12.122-7.312-20.995-7.312c-15.871,0-27.243,12.926-27.243,30.162c0,17.496,11.372,30.161,27.243,30.161
+		c9.498,0,17.621-4.439,21.745-7.442l4.999,16.06c-5.249,4.049-13.997,8.618-26.744,8.618
+		C257.845,303.122,239.6,282.623,239.6,255.725z"/>
+	<path fill="#FFFFFF" d="M323.954,210.026h17.621v37.082h36.366v-37.082h17.62v91.398h-17.62V263.69h-36.366v37.734h-17.621V210.026
+		z"/>
+</g>
 </svg>
