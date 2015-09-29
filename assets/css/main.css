@@ -52,13 +52,13 @@ body{
 	}
 	#about-info{
 		padding: 5% 5%;
-		font-size: 15px;
+		font-size: 14px;
 		text-align: center;
 		line-height: 2;
 	}
 	#about-info img{
-		width: 100%;
-		margin-bottom: 10%;
+		width: 90%;
+		margin-bottom: 5%;
 	}
 	#about-info img{
 		width: 100%;
