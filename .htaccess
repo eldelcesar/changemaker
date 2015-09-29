@@ -1,0 +1,14 @@
+	
+  RewriteEngine on 
+	RewriteRule ^/?$ index.php
+  RewriteRule ^programa/?$ program.php
+  RewriteRule ^programa/actividad/?$ activity.php
+  RewriteRule ^contacto/?$ contact.php
+	RewriteRule ^prensa/?$ press.php
+  RewriteRule ^socialhack/?$ hackathon.php
+
+
+  RewriteRule ^reportes/([^/]+)/([^/]+)/?$ reports.php?opc=$1&country=$2
+	RewriteRule ^reporte/([^/]+)/?$ report.php?id=$1
+  RewriteRule ^noticias/administrar/?$ adminnews.php
+  RewriteRule ^noticias/administrar/([^/]+)/?$ editnews.php?id=$1

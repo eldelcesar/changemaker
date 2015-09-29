@@ -11,73 +11,73 @@
 <text transform="matrix(0.1894 0 0 1 329.8667 663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <text transform="matrix(0.1894 0 0 1 329.8667 1192.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <text transform="matrix(0.1894 0 0 1 329.8667 1381.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 336.8667 2663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<circle fill="#EE7203" cx="337.484" cy="147.113" r="47.998"/>
+<text transform="matrix(0.1894 0 0 1 336.8662 2663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<circle fill="#EE7203" cx="337.483" cy="147.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 144.3071 129.6738)" font-family="'SurfingCapital'" font-size="30.405">Registro</text>
-<text transform="matrix(1 0 0 1 166.3052 166.7358)" font-family="'Geomanist-Medium'" font-size="17.6007">11:00-12:00 hrs</text>
-<text transform="matrix(1 0 0 1 130.7788 187.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#F39200" cx="337.484" cy="310.113" r="47.998"/>
-<text transform="matrix(1 0 0 1 400.3589 292.6738)" font-family="'SurfingCapital'" font-size="30.405">bienvenida</text>
-<text transform="matrix(1 0 0 1 400.7144 329.7358)" font-family="'Geomanist-Medium'" font-size="17.6007">12:00-13:15 hrs</text>
-<text transform="matrix(1 0 0 1 401.3584 350.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#DEDC00" cx="337.484" cy="485.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 166.3052 166.7354)" font-family="'Geomanist-Medium'" font-size="17.6007">11:00-12:00 hrs</text>
+<text transform="matrix(1 0 0 1 143.4458 187.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#F39200" cx="337.483" cy="310.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 400.3584 292.6738)" font-family="'SurfingCapital'" font-size="30.405">bienvenida</text>
+<text transform="matrix(1 0 0 1 400.7139 329.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">12:00-13:15 hrs</text>
+<text transform="matrix(1 0 0 1 401.3584 350.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#DEDC00" cx="337.483" cy="485.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 73.9312 467.6738)" font-family="'SurfingCapital'" font-size="30.405">hacer equipos</text>
-<text transform="matrix(1 0 0 1 169.2695 504.7358)" font-family="'Geomanist-Medium'" font-size="17.6007">13:15-13:35 hrs</text>
-<text transform="matrix(1 0 0 1 131.2788 525.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#59B13E" cx="337.484" cy="663.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 169.2695 504.7354)" font-family="'Geomanist-Medium'" font-size="17.6007">13:15-13:35 hrs</text>
+<text transform="matrix(1 0 0 1 143.4458 525.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#59B13E" cx="337.483" cy="663.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 399.3594 645.6738)" font-family="'SurfingCapital'" font-size="30.405">talleres</text>
 <text transform="matrix(1 0 0 1 399.7148 682.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">13:35-14:00 hrs</text>
-<text transform="matrix(1 0 0 1 400.3589 703.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#00B6DD" cx="337.484" cy="847.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 400.3584 703.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#00B6DD" cx="337.483" cy="847.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 178.4487 829.6738)" font-family="'SurfingCapital'" font-size="30.405">comida</text>
 <text transform="matrix(1 0 0 1 164.5171 866.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">13:35-15:00 hrs</text>
-<text transform="matrix(1 0 0 1 131.2788 887.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#1F386C" cx="337.484" cy="1025.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 143.4458 887.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#1F386C" cx="337.483" cy="1025.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 399.3594 1007.6738)" font-family="'SurfingCapital'" font-size="30.405">code release</text>
 <text transform="matrix(1 0 0 1 399.7148 1044.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00 hrs</text>
-<text transform="matrix(1 0 0 1 400.3589 1065.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
+<text transform="matrix(1 0 0 1 400.3584 1065.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 256.4331 62.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">sabado</text>
-<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.896 35.6602)" font-family="'sobrushitalic-italic'" font-size="35">-</text>
-<circle fill="#971B81" cx="336.484" cy="1202.113" r="47.998"/>
+<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.8965 35.6597)" font-family="'sobrushitalic-italic'" font-size="34.9986">-</text>
+<circle fill="#971B81" cx="336.483" cy="1202.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 207.2598 1184.6738)" font-family="'SurfingCapital'" font-size="30.405">cena</text>
 <text transform="matrix(1 0 0 1 158.7651 1221.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">21:00-22:00 hrs</text>
-<text transform="matrix(1 0 0 1 130.2788 1242.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#E6007D" cx="337.484" cy="1381.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 143.4458 1242.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#E6007D" cx="337.483" cy="1381.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 399.3594 1363.6738)" font-family="'SurfingCapital'" font-size="30.405">camping</text>
 <text transform="matrix(1 0 0 1 399.7148 1400.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">23:00-7:00 hrs</text>
-<text transform="matrix(1 0 0 1 399.3594 1423.1113)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<text transform="matrix(0.1894 0 0 1 337.8667 1789.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 337.8667 1964.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 336.8667 2504.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 337.8667 2316.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 336.8667 2142.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<circle fill="#EE7203" cx="344.484" cy="1626.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 399.3594 1423.1113)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<text transform="matrix(0.1894 0 0 1 337.8662 1789.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 337.8662 1964.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 336.8662 2504.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 337.8662 2316.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 336.8662 2142.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<circle fill="#EE7203" cx="344.483" cy="1626.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 144.0918 1608.6738)" font-family="'SurfingCapital'" font-size="30.405">desayuno</text>
 <text transform="matrix(1 0 0 1 181.0132 1645.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">8:00-9:00 hrs</text>
-<text transform="matrix(1 0 0 1 137.7788 1666.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#F39200" cx="344.484" cy="1789.113" r="47.998"/>
-<text transform="matrix(1 0 0 1 407.3589 1771.6738)" font-family="'SurfingCapital'" font-size="30.405">taller de pitch</text>
-<text transform="matrix(1 0 0 1 407.7144 1808.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">11:00-12:30 hrs</text>
+<text transform="matrix(1 0 0 1 150.4458 1666.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">Terraza Biblioteca</text>
+<circle fill="#F39200" cx="344.483" cy="1789.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 407.3584 1771.6738)" font-family="'SurfingCapital'" font-size="30.405">taller de pitch</text>
+<text transform="matrix(1 0 0 1 407.7139 1808.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">11:00-12:30 hrs</text>
 <text transform="matrix(1 0 0 1 408.3584 1829.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#DEDC00" cx="344.484" cy="1964.113" r="47.998"/>
+<circle fill="#DEDC00" cx="344.483" cy="1964.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 185.4487 1946.6738)" font-family="'SurfingCapital'" font-size="30.405">comida</text>
 <text transform="matrix(1 0 0 1 169.4575 1983.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">14:00-15:00 hrs</text>
 <text transform="matrix(1 0 0 1 138.2788 2004.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#59B13E" cx="344.484" cy="2142.113" r="47.998"/>
+<circle fill="#59B13E" cx="344.483" cy="2142.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 406.3594 2124.6738)" font-family="'SurfingCapital'" font-size="30.405">deadline</text>
 <text transform="matrix(1 0 0 1 406.7148 2161.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00 hrs</text>
-<text transform="matrix(1 0 0 1 407.3589 2182.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#00B6DD" cx="344.484" cy="2326.113" r="47.998"/>
+<text transform="matrix(1 0 0 1 407.3584 2182.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
+<circle fill="#00B6DD" cx="344.483" cy="2326.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 58.0386 2308.6738)" font-family="'SurfingCapital'" font-size="30.405">presentaciones</text>
 <text transform="matrix(1 0 0 1 170.2852 2345.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00-15:00 hrs</text>
 <text transform="matrix(1 0 0 1 138.2788 2366.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
-<circle fill="#1F386C" cx="344.484" cy="2504.113" r="47.998"/>
+<circle fill="#1F386C" cx="344.483" cy="2504.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 406.3594 2486.6738)" font-family="'SurfingCapital'" font-size="30.405">deliveracion</text>
 <text transform="matrix(1 0 0 1 406.7148 2523.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:45-16:30 hrs</text>
-<text transform="matrix(1 0 0 1 407.3589 2544.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
+<text transform="matrix(1 0 0 1 407.3584 2544.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 247.5049 1541.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">Domingo</text>
-<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0132 2455.5254)" font-family="'SurfingCapital'" font-size="17">i</text>
-<circle fill="#971B81" cx="343.484" cy="2673.113" r="47.998"/>
+<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0137 2455.5254)" font-family="'SurfingCapital'" font-size="17">i</text>
+<circle fill="#971B81" cx="343.483" cy="2673.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 12.0845 2655.6738)" font-family="'SurfingCapital'" font-size="30.405">cierre y ganadoes</text>
 <text transform="matrix(1 0 0 1 170.6929 2692.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">16:30-17:30 hrs</text>
 <text transform="matrix(1 0 0 1 137.2788 2713.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>

@@ -17,6 +17,13 @@ body{
 		/*background: url('../img/main.jpg') center center no-repeat;
 		background-size: cover;*/
 	}
+	#register{
+		position: fixed;
+		top: 60px;
+		right: 25px;
+		width: 15%;
+		z-index: 1000;
+	}
 	#scene {
 	    display: block;
 	    list-style-type: disc;

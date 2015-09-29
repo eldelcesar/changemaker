@@ -6,7 +6,7 @@
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<title>ChangeMaker Day | Inicio</title>
+		<title>ChangeMaker Day | SocialHack</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/bootstrap.min.css"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/dimmer.min.css"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/shape.min.css"/>
@@ -27,6 +27,7 @@
 	?>
 	
 	<!-- Main -->
+	<a href="http://goo.gl/forms/OkKxYzchfq"><img id="register" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/registro.png"></a>
 	<div id="hack">
 		<ul id="scene">
 		  	<li class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte2.png"></li>
@@ -41,7 +42,7 @@
 
 	<div id="video">
 		<div id="video_container" class="embed-responsive embed-responsive-16by9">
-			<iframe class="embed-responsive-item"  width="1280" height="720" src="http://www.youtube.com/embed/KxFa_OfuJjU?&theme=light&showinfo=0&controls=0&hd=1&autohide=1&color=white" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="http://www.youtube.com/embed/6dTRkCfueh0?" frameborder="0" allowfullscreen></iframe>	
 		</div>
 	</div>
 

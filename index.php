@@ -43,17 +43,18 @@
 
 		<div id="video">
 			<div id="video_container" class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item"  width="1280" height="720" src="http://www.youtube.com/embed/KxFa_OfuJjU?&theme=light&showinfo=0&controls=0&hd=1&autohide=1&color=white" frameborder="0" allowfullscreen></iframe>
+				<iframe width="560" height="315" src="http://www.youtube.com/embed/5-E53R6xGpk?" frameborder="0" allowfullscreen></iframe>
 			</div>
 		</div>
 
 		<div id="about">
 			<div id="about-info" class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 				<img src="<?php echo ChangeMaker::$domain; ?>assets/img/que-es.svg"/>
-				<p>Es la fiesta de Innovación Social en el Campus. Un espacio donde los actores del campus se reconocen 
-				como agentes de cambio. Los agentes de cambio se encuentran y fortalecen. La comunidad universitaria 
-				tiene la oportunidad de acercarse a las problemáticas sociales, compartir puntos de vista y descubrir 
-				herramientas para la trasformación social.</p>
+				<p>Es la celebración de la innovación y el emprendimiento social, en la que la comunidad del 
+				campus tiene la oportunidad de acercarse a las problemáticas sociales, compartir puntos de vista y 
+				descubrir nuevas herramientas para la transformación.<br>
+				Es un espacio de encuentro y diálogo cuyo objetivo es fortalecer el ecosistema de líderes con 
+				espíritu emprendedor y sentido humano, es decir, agentes de cambio.</p>
 				<img id="ashoka-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/ashoka-campus.svg"/>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">

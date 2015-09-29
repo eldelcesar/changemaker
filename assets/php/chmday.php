@@ -34,7 +34,7 @@ class ChangeMaker{
 				'<div id="menu-bar-options">
 					<a id="program-bar" href="'.self::$domain.'programa/">PROGRAMA</a>
 					<a id="press-bar" href="'.self::$domain.'prensa/">PRENSA</a>
-					<a id="hackathon-bar" href="'.self::$domain.'hackathon/">HACKATHON</a>
+					<a id="hackathon-bar" href="'.self::$domain.'socialhack/">HACKATHON</a>
 					<p>HULT PRICE</p>
 					<a id="contact-bar" href="'.self::$domain.'contacto/">CONTACTO</a>
 				</div>
