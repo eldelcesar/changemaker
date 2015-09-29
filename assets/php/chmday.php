@@ -20,7 +20,7 @@ class ChangeMaker{
 	//static public $db_password	= "";
 
 	//static public $domain = "http://localhost/changemaker/";
-	static public $domain = "http://www.changemakerday.com/";
+	static public $domain = "/";
 
 	static function menubar($logo){
 		echo
