@@ -1,17 +1,16 @@
 <?php
 	include_once('assets/php/chmday.php');
 ?>
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 		<title>ChangeMaker Day | Prensa</title>
-		<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css"/>
-		<link rel="stylesheet" type="text/css" href="/assets/css/dimmer.min.css"/>
-		<link rel="stylesheet" type="text/css" href="/assets/css/shape.min.css"/>
-		<link rel="stylesheet" type="text/css" href="/assets/css/chmday.css">
-		<link rel="stylesheet" type="text/css" href="/assets/css/press.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/dimmer.min.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/shape.min.css"/>
+		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/chmday.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo ChangeMaker::$domain; ?>assets/css/press.css">
 		<!-- Icono de la pagina -->
 		<link rel="shorcut icon" href="<?php echo ChangeMaker::$domain; ?>assets/img/icon.ico">
 		<script type="text/javascript" src="<?php echo ChangeMaker::$domain; ?>assets/js/jquery.min.js"></script>
