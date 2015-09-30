@@ -3,6 +3,7 @@
 	RewriteRule ^/?$ index.php
   RewriteRule ^programa/?$ program.php
   RewriteRule ^programa/actividad/?$ activity.php
+  RewriteRule ^programa/actividad/([^/]+)/?$ activity.php?activity=$1
   RewriteRule ^contacto/?$ contact.php
 	RewriteRule ^prensa/?$ press.php
   RewriteRule ^socialhack/?$ hackathon.php

@@ -2,11 +2,11 @@ $(document).ready(function(){
 	
 	$('#program-bar').toggleClass('active-bar');
 
-	$("#day-2").click(function(event) {
+	$("#day-3").click(function(event) {
 		$('.day-2').toggleClass('opacityChanger');
 		$('.day-3').removeClass('opacityChanger');
 	});
-	$("#day-3").click(function(event) {
+	$("#day-2").click(function(event) {
 		$('.day-3').toggleClass('opacityChanger');
 		$('.day-2').removeClass('opacityChanger');
 	});

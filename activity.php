@@ -1,5 +1,7 @@
 <?php
 	include_once('assets/php/chmday.php');
+	$con = new mysqli(ChangeMaker::$db_hostname,ChangeMaker::$db_user,ChangeMaker::$db_password,ChangeMaker::$db_name);
+	$con->query("SET NAMES 'utf8'");
 ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -27,29 +29,48 @@
 		?>
 
 		<!-- Contact -->
-		<div id="activity-name">
-			<h1>Hackathon Social</h1>
-			<img src="<?php echo ChangeMaker::$domain; ?>assets/img/tech.svg">
+		<?php
+			$id = $_GET["activity"];
+			$result = $con->query("SELECT * FROM activities WHERE id='$id'");
+			$activity = $result->fetch_array();
+			$name = $activity["name"];
+			$person = $activity["main_person"];
+			$description = $activity["description"];
+			$scenario_id = $activity["scenario_id"];
+			$time = $activity["time"];
+			$date = $activity["date"];
+			$register = $activity["register"];
+			$background = $activity["background"];
+			$organizer = $activity["organizer"];
+			$logo = $activity["logo"];
+			$scenario = $activity["scenario"];
+			$url_fb = $activity["url_fb"];
+			echo '
+		<div id="activity-name" style="background-image: url('.ChangeMaker::$domain.'assets/img/'.$background.')">
+			<h1>'.$name.'</h1>
+			<img src="'.ChangeMaker::$domain.'assets/img/scenario-'.$scenario_id.'.svg">
 		</div>
 		<div id="activity-info">
 			<div class="col-xs-12 col-sm-6 col-md-6">
-				<h1>por <strong>ACM Tec Campus Guadalajara y Zona EI</strong></h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin 
-				felis. Phasellus sagittis tortor lectus, sed consequat eros malesuada nec. Ut rhoncus 
-				sapien in dapibus ullamcorper. Ut laoreet lobortis urna. Cras ornare, arcu eget bibendum 
-				aliquet, erat velit pretium ante, in ultrices ligula neque sit amet elit.</p>
+				<h1>por <strong>'.$person.'</strong></h1>
+				<p>'.$description.'</p>
 				<p><strong>Más información</strong></p>
-				<div class="col-xs-3 col-sm-3 col-md-3"><img class="sponsor" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ACM_logo.svg"></div>
-				<div class="col-xs-3 col-sm-3 col-md-3"><img class="sponsor" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ZonaEI.svg"></div>
+				<div class="col-xs-3 col-sm-3 col-md-3">
+					<a href="'.$url_fb.'" target="_blank"><img class="sponsor" src="'.ChangeMaker::$domain.'assets/img/activities/'.$logo.'"></a>
+				</div>
 			</div>
 
 			<div id="activity-register" class="col-xs-12 col-sm-6 col-md-6">
-				<h1 id="activity-img">Registrate!</h1><hr>
-				<h1>Escenario <strong>Tech</strong></h1>
-				<h1>Fecha <strong>10 y 11 Octubre</strong></h1>
-				<h1>Horario <strong>9:00-23:00 y 8:00-16:00</strong></h1><hr>
-				<p>Organizado por <strong>Enrique Enciso y Diego Toledo</strong></p>
+				<a href="'.$register.'" target="_blank"><h1 id="activity-img">Registrate!</h1></a><hr>
+				<h1>Lugar: <strong>'.$scenario.'</strong></h1>
+				<h1>Fecha: <strong>'.$date.'</strong></h1>
+				<h1>Horario: <strong>'.$time.'</strong></h1><hr>
+				<p>Organizado por <strong>'.$organizer.'</strong></p>
 			</div>
-		</div>
+		</div>';
+		?>
 	</body>
 </html>
+<?php
+	$con->close();
+?>

@@ -7,7 +7,7 @@ class ChangeMaker{
 	//------------System Information--------------
 
 	//Nombre de la Base de Datos
-	static public $db_name 		= "salvador";
+	static public $db_name 		= "changemakerday";
 	static public $db_user 		= "root";//Configuracion básica de MAMP
 	static public $db_password	= "root";//Configuracion básica de MAMP
 
@@ -19,8 +19,8 @@ class ChangeMaker{
 	//static public $db_user 		= "";
 	//static public $db_password	= "";
 
-	//static public $domain = "http://localhost/changemaker/";
-	static public $domain = "http://www.changemakerday.com/";
+	static public $domain = "http://localhost/changemaker/";
+	//static public $domain = "http://www.changemakerday.com/";
 
 	static function menubar($logo){
 		echo
@@ -32,11 +32,11 @@ class ChangeMaker{
 		}
 		echo
 				'<div id="menu-bar-options">
-					<a id="program-bar" href="'.self::$domain.'program.php">PROGRAMA</a>
-					<a id="press-bar" href="'.self::$domain.'press.php">PRENSA</a>
-					<a id="hackathon-bar" href="'.self::$domain.'hackathon.php">HACKATHON</a>
+					<a id="program-bar" href="'.self::$domain.'programa/">PROGRAMA</a>
+					<a id="press-bar" href="'.self::$domain.'prensa/">PRENSA</a>
+					<a id="hackathon-bar" href="'.self::$domain.'socialhack/">HACKATHON</a>
 					<p>HULT PRICE</p>
-					<a id="contact-bar" href="'.self::$domain.'contact.php">CONTACTO</a>
+					<a id="contact-bar" href="'.self::$domain.'contacto/">CONTACTO</a>
 				</div>
 			</div>
 		';

@@ -38,9 +38,9 @@
 			</div>
 			
 			<div id="contact-map" class="col-xs-12 col-sm-6 col-md-6">
-				<img id="scenario-1" src="<?php echo ChangeMaker::$domain; ?>assets/img/social.svg">
-				<img id="scenario-2" src="<?php echo ChangeMaker::$domain; ?>assets/img/tech.svg">
-				<img id="scenario-3" src="<?php echo ChangeMaker::$domain; ?>assets/img/green.svg">
+				<img id="scenario-1" src="<?php echo ChangeMaker::$domain; ?>assets/img/scenario-1.svg">
+				<img id="scenario-2" src="<?php echo ChangeMaker::$domain; ?>assets/img/scenario-2.svg">
+				<img id="scenario-3" src="<?php echo ChangeMaker::$domain; ?>assets/img/scenario-3.svg">
 			</div>
 		</div>
 

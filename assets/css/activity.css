@@ -73,6 +73,9 @@ body{
 	#activity-img:hover{
 		color: #F47920;
 	}
+	a{
+		text-decoration: none !important;
+	}
 	.sponsor{
 		width: 100%;
 	}

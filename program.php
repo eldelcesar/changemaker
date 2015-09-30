@@ -1,5 +1,7 @@
 <?php
 	include_once('assets/php/chmday.php');
+	$con = new mysqli(ChangeMaker::$db_hostname,ChangeMaker::$db_user,ChangeMaker::$db_password,ChangeMaker::$db_name);
+	$con->query("SET NAMES 'utf8'");
 ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -43,7 +45,18 @@
 				<div id="scenario-4" class="program-filter">GREEN</div>
 			</div>
 			<div id="program-activities">
-				<!--<a href="">--><div class="program-option day-2 scenario-3">Próximamente</div><!--</a>-->
+				<?php
+				$result = $con->query("SELECT * FROM activities");
+				while ($activity = $result->fetch_array()) {
+					$name = $activity["name"];
+					$id = $activity["id"];
+					$date_id = $activity["date_id"];
+					$scenario_id = $activity["scenario_id"];
+					echo '<a href="'.ChangeMaker::$domain.'programa/actividad/'.$id.'"><div class="program-option day-'.($date_id+1).' scenario-'.($scenario_id+1).'">'.$name.'</div></a>';
+				}
+				?>
+
+				<!--<a href=""<div class="program-option day-2 scenario-3">Próximamente</div></a>-->
 				<!--<a href=""><div class="program-option day-3 scenario-2">PEOPLE</div></a>
 				<a href=""><div class="program-option day-3 scenario-3">TECH</div></a>
 				<a href=""><div class="program-option day-3 scenario-2">PEOPLE</div></a>
@@ -65,5 +78,7 @@
 		</div>
 	</body>
 </html>
-
+<?php
+	$con->close();
+?>
 
