@@ -69,7 +69,7 @@
 	</div>-->
 
 	<div id="schedule">
-		<h1>Itinerario</h1><hr>
+		<img id="schedule-title" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/schedule-title.png"><hr>
 		<img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/schedule.png">
 	</div>
 

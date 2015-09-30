@@ -88,7 +88,7 @@ body{
 		line-height: 2;
 	}
 	
-/* Speakers */
+/* Schedule */
 	#schedule{
 		position: relative;
 		min-height: 100%;
@@ -102,6 +102,9 @@ body{
 	}
 	#schedule hr{
 		border: 1px solid #F47920;
+	}
+	#schedule-title{
+		width: 35%;
 	}
 
 /* Sponsors */
