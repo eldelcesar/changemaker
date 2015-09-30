@@ -52,15 +52,15 @@
 		<div id="about-info">
 			<div class="col-xs-12 col-sm-12 col-md-4">
 				<h1>Emprendimiento Social</h1>
-				<p>El principal enfoque de este Hackathon es el emprendimiento social tecnológico, en el que se logren soluciones de impacto en diferentes sectores de la población</p>
+				<p>El principal enfoque de este Hackathon es el emprendimiento social tecnológico, en el que se logren soluciones de impacto en diferentes sectores de la población.</p>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-4">
 				<h1>Vinculación</h1>
-				<p>Los proyectos estarán en todo momento vinculados con diferentes organizaciones sin fines de lucro, esto para lograr que el esfuerzo esté dirigido en la mejor forma y al lugar correcto</p>
+				<p>Los proyectos estarán en todo momento vinculados con diferentes organizaciones sin fines de lucro, esto para lograr que el esfuerzo esté dirigido en la mejor forma y al lugar correcto.</p>
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-4">
-				<h1>Innovación para todos</h1>
-				<p>Los resultados que brindará este Hackathon no sólo impactarán a los participantes, sino que serán la base del desarrollo social cumpliendo las necesidades que este conlleva</p>
+				<h1>Experiencia completa</h1>
+				<p>También llevaremos el laboratorio de hardware completo que consta de Myos, LeapMotions, Oculus Rift, Jawbones, y Firephones. Tendremos GitHub Student Packs para todos los participantes y 100USD en Amazon Web Services.</p>
 			</div>
 		</div>
 	</div>
