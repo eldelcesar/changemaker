@@ -13,14 +13,15 @@ class ChangeMaker{
 
 	//Siempre local host a menos de que haya servidor externo
 	static public $db_hostname 	= "localhost";
+	//La tabla se llama "activities"
 	
 	//Configuración de Servidor
 	//static public $db_name 		= "";
 	//static public $db_user 		= "";
 	//static public $db_password	= "";
 
-	//static public $domain = "http://localhost/changemaker/";
-	static public $domain = "http://www.changemakerday.com/";
+	static public $domain = "http://localhost/changemaker/";
+	//static public $domain = "http://www.changemakerday.com/";
 
 	static function menubar($logo){
 		echo

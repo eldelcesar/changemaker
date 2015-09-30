@@ -84,10 +84,9 @@
 				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ashoka-campus.svg"/></div>
 			</div>
 			<div class="row">
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
-				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/mlh.png"/></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
 			</div>
 		</div>
 		<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/sponsors-dots.svg"/>
