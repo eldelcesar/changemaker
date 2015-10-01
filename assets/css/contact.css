@@ -65,3 +65,12 @@ body{
 		margin-left: 5%;
 		width: 15%;
 	}
+	#scenario-4{
+		cursor: pointer;
+		margin-top: 5%;
+		margin-left: 5%;
+		width: 15%;
+	}
+	#map{
+		width: 80%;
+	}
