@@ -74,8 +74,8 @@
 				<a href=""><div class="program-option day-2 scenario-3">TODOS</div></a>
 				<a href=""><div class="program-option day-3 scenario-4">GREEN</div></a>-->
 			</div>
-			<div id="footer-dots"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/program-bg.svg"></div>
 		</div>
+		<div id="footer-dots"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/program-bg.svg"></div>
 	</body>
 </html>
 <?php

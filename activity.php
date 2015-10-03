@@ -45,6 +45,7 @@
 			$logo = $activity["logo"];
 			$scenario = $activity["scenario"];
 			$url_fb = $activity["url_fb"];
+			$flag= $activity["isRegister"];
 			echo '
 		<div id="activity-name" style="background-image: url('.ChangeMaker::$domain.'assets/img/'.$background.')">
 			<h1>'.$name.'</h1>
@@ -55,14 +56,16 @@
 				<h1>por <strong>'.$person.'</strong></h1>
 				<p>'.$description.'</p>
 				<p><strong>Más información</strong></p>
-				<div class="col-xs-3 col-sm-3 col-md-3">
+				<div id="logos" class="col-xs-3 col-sm-3 col-md-3">
 					<a href="'.$url_fb.'" target="_blank"><img class="sponsor" src="'.ChangeMaker::$domain.'assets/img/activities/'.$logo.'"></a>
 				</div>
 			</div>
 
-			<div id="activity-register" class="col-xs-12 col-sm-6 col-md-6">
-				<a href="'.$register.'" target="_blank"><h1 id="activity-img">Registrate!</h1></a><hr>
-				<h1>Lugar: <strong>'.$scenario.'</strong></h1>
+			<div id="activity-register" class="col-xs-12 col-sm-6 col-md-6">';
+				if ($flag == 1) {
+					echo '<a href="'.$register.'" target="_blank"><h1 id="activity-img">Registrate!</h1></a><hr>';
+				}
+				echo '<h1>Lugar: <strong>'.$scenario.'</strong></h1>
 				<h1>Fecha: <strong>'.$date.'</strong></h1>
 				<h1>Horario: <strong>'.$time.'</strong></h1><hr>
 				<p>Organizado por <strong>'.$organizer.'</strong></p>

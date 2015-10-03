@@ -23,6 +23,7 @@ body{
 		position: absolute;
 		bottom: 1%;
 		left: 5%;
+		margin-right: 10%;
 		font-family: Geomanist-Medium;
 		font-size: 50px;
 		color: #fff;
@@ -78,6 +79,9 @@ body{
 	}
 	.sponsor{
 		width: 100%;
+	}
+	#logos{
+		padding: 0 !important;
 	}
 
 

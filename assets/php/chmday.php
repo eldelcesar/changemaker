@@ -9,7 +9,7 @@ class ChangeMaker{
 	//Nombre de la Base de Datos
 	static public $db_name 		= "changemakerday";
 	static public $db_user 		= "root";//Configuracion básica de MAMP
-	static public $db_password	= "root";//Configuracion básica de MAMP
+	static public $db_password	= "c3ntr4ld3c4mbio";//Configuracion básica de MAMP
 
 	//Siempre local host a menos de que haya servidor externo
 	static public $db_hostname 	= "localhost";
@@ -34,7 +34,6 @@ class ChangeMaker{
 		echo
 				'<div id="menu-bar-options">
 					<a id="program-bar" href="'.self::$domain.'programa/">PROGRAMA</a>
-					<a id="press-bar" href="'.self::$domain.'prensa/">PRENSA</a>
 					<a id="hackathon-bar" href="'.self::$domain.'socialhack/">HACKATHON</a>
 					<p>HULT PRIZE</p>
 					<a id="contact-bar" href="'.self::$domain.'contacto/">CONTACTO</a>
