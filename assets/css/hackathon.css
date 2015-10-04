@@ -110,7 +110,6 @@ body{
 /* Sponsors */
 	#sponsors{
 		position: relative;
-		min-height: 100%;
 		height: auto;
 		width: 100%;
 		padding-top: 70px;
@@ -163,6 +162,9 @@ body{
 	}
 	#about-info div {
 	    padding: 1%;
+	}
+	#sponsors {
+	    height: 85%;
 	}
 }
 
