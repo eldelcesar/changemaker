@@ -52,25 +52,48 @@ body{
 		cursor: pointer;
 		margin-top: 5%;
 		width: 15%;
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
 	}
 	#scenario-2{
 		cursor: pointer;
 		margin-top: 5%;
 		margin-left: 5%;
 		width: 15%;
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
 	}
 	#scenario-3{
 		cursor: pointer;
 		margin-top: 5%;
 		margin-left: 5%;
 		width: 15%;
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
 	}
 	#scenario-4{
 		cursor: pointer;
 		margin-top: 5%;
 		margin-left: 5%;
 		width: 15%;
+		transition: all 0.5s ease-in-out; 
+			-moz-transition: all 0.5s ease-in-out;
+			-ms-transition: all 0.5s ease-in-out;
+			-o-transition: all 0.5s ease-in-out;
+			-webkit-transition: all 0.5s ease-in-out;
 	}
 	#map{
 		width: 80%;
+	}
+	.active{
+		width: 17% !important;
 	}
