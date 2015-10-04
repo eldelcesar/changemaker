@@ -118,7 +118,7 @@ body{
 	}
 	#sponsors .row img{
 		margin-left: 15%;
-		width: 60%;
+		width: 80%;
 	}
 	#sponsors-chmday{
 		position: relative;
@@ -127,7 +127,7 @@ body{
 	}
 	#sponsors-logos{
 		position: relative;
-		padding: 5% 10%;
+		padding: 5% 10% 0 3%;
 	}
 	#sponsors-logos img{
 		width: 80%;
@@ -136,7 +136,7 @@ body{
 	#sponsors-dots{
 		position: absolute;
 		width: 100%;
-		bottom: -30%;
+		bottom: -20%;
 	}
 
 /* Inters */
