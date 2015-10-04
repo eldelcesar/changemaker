@@ -27,17 +27,16 @@
 		?>
 		
 		<!-- Main -->
-		<!-- Pantallazo con parallax, no tocar :)-->
 		<div id="main">
 			<ul id="scene">
-				<li class="layer" data-depth="0.10"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/slogan.png"></li>
-			  	<li class="layer" data-depth="0.50"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte1.png"></li>
-			  	<li class="layer" data-depth="0.30"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte2.png"></li>
-			  	<li class="layer" data-depth="0.70"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte3.png"></li>
-			  	<li class="layer" data-depth="0.80"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte4.png"></li>
-			  	<li class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte5.png"></li>
-			  	<li class="layer" data-depth="0.10"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/logo.png"></li>
-			  	<li class="layer" data-depth="0.00"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/name.png"></li>
+				<li id="slogan" class="layer" data-depth="0.10"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/slogan.png"></li>
+			  	<li id="part1" class="layer" data-depth="0.50"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte1.png"></li>
+			  	<li id="part2" class="layer" data-depth="0.30"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte2.png"></li>
+			  	<li id="part3" class="layer" data-depth="0.70"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte3.png"></li>
+			  	<li id="part4" class="layer" data-depth="0.80"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte4.png"></li>
+			  	<li id="part5" class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/parte5.png"></li>
+			  	<li id="logo" class="layer" data-depth="0.10"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/logo.png"></li>
+			  	<li id="name" class="layer" data-depth="0.00"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/parallax/name.png"></li>
 			  </ul>
 		</div>
 
@@ -89,25 +88,25 @@
 				</div>
 				<div class="row">
 					<h1>Patrocinadores</h1>
-					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite-botella.png"/></div>
-					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite.svg"/></div>
-					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-5"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ieegl.svg"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-4"></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/bonafont.png"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-4"></div>
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite-botella.png"/></div>
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite.svg"/></div>
+					<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ieegl.svg"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/bonafont.png"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>
 				</div>
 				<div class="row">
 					<h1>Colaboradores</h1>
-					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/yoquiero.jpg"/></div>
-					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/reinserta.png"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/techo.png"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ficg.jpg"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/codmex.jpg"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/socialvalley.png"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/wiki.png"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/fuckup.jpg"/></div>
-					<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/amnistia.png"/></div>
+					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/yoquiero.jpg"/></div>
+					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/reinserta.png"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/techo.png"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ficg.jpg"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/codmex.jpg"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/socialvalley.png"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/wiki.png"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/fuckup.jpg"/></div>
+					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/amnistia.png"/></div>
 				</div>
 			</div>
 			<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors-dots.svg"/>
