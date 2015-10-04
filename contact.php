@@ -43,9 +43,9 @@
 				<img id="scenario-3" src="<?php echo ChangeMaker::$domain; ?>assets/img/scenario-3.svg">
 				<img id="scenario-4" src="<?php echo ChangeMaker::$domain; ?>assets/img/scenario-4.svg">
 				<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-1.png">
-				<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-2.png">
+				<!--<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-2.png">
 				<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-3.png">
-				<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-4.png">
+				<img id="map" src="<?php echo ChangeMaker::$domain; ?>assets/img/map-4.png">-->
 			</div>
 		</div>
 
