@@ -32,6 +32,8 @@
 			<div id="contact-info" class="col-xs-12 col-sm-6 col-md-6">
 				<img id="contact-title" src="<?php echo ChangeMaker::$domain; ?>assets/img/contact-title.svg">
 				<p><strong>Alejandro</strong> Morales</p>
+				<p>En el <strong>Tec de Monterrey Campus Guadalajara</strong></p>
+				<p>Av. General Ramón Corona 2514, Nuevo México, 45201 Zapopan, Jal.</p>
 				<p><span class="glyphicon glyphicon-phone-alt"></span> <strong>(+52) 3669-3000 Ext. 1413<strong></p>
 				<p><span class="glyphicon glyphicon-envelope"></span> <strong>moralex@itesm.mx<strong></p>
 				<img id="contact-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/logo-negro.svg"><br>
