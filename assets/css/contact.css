@@ -97,3 +97,12 @@ body{
 	.active{
 		width: 17% !important;
 	}
+
+@media (max-width: 1024px) and (orientation: portrait){
+	#contact-bg{
+		position: absolute;
+		margin-top: 150px;
+		width: 100%;
+	}
+	
+}
