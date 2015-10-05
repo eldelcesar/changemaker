@@ -84,9 +84,10 @@
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ashoka-campus.svg"/></div>
 			</div>
 			<div class="row">
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/mlh.png"/></div>
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
+				<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/mlh.png"/></div>
+				<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/zona-ei.svg"/></div>
+				<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/acm.svg"/></div>
+				<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3"><img style="width: 125%; margin-top: 10%" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ieegl.svg"/></div>	
 			</div>
 		</div>
 		<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/sponsors-dots.svg"/>
