@@ -47,7 +47,7 @@
 	</div>
 
 	<div id="about">
-		<img id="about-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/about-dots.svg"/>
+		<img id="about-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/about-dots.png"/>
 		<img id="about-title" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/about-title.svg"/>
 		<div id="about-info">
 			<div class="col-xs-12 col-sm-12 col-md-4">
