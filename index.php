@@ -66,7 +66,21 @@
 
 		<div id="speakers">
 			<img id="speakers-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/speakers-dots.svg"/>
-			<img id="speakers-prox" src="<?php echo ChangeMaker::$domain; ?>assets/img/speakers-prox.png">
+			<h1>Speakers</h1>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 speaker-div">
+				<a href="https://www.facebook.com/YoquieroYopuedo.IMIFAP?fref=ts">
+					<img class="speaker" src="<?php echo ChangeMaker::$domain; ?>assets/img/susan.png"/>
+				</a>
+				<h1>Susan Pick</h1>
+				<img class="speaker-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/yoquiero.png"/>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 speaker-div">
+				<a href="https://www.facebook.com/REINSERTA">
+					<img class="speaker" src="<?php echo ChangeMaker::$domain; ?>assets/img/saskia.png"/>
+				</a>
+				<h1>Saskia Niño de Rivera</h1>
+				<img class="speaker-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/reinserta.png"/>
+			</div>
 		</div>
 
 		<!--<div id="inter-2">

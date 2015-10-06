@@ -83,8 +83,13 @@ body{
 		position: relative;
 		min-height: 100%;
 		width: 100%;
-		padding-top: 70px;
 		background-color: rgb(255,255,255);
+	}
+	#speakers h1{
+		text-align: center;
+		font-size: 50px;
+		font-family: Geomanist-Medium; 
+		color: #F47920;
 	}
 	#speakers-prox{
 		position: absolute;
@@ -96,29 +101,18 @@ body{
 		width: 100%;
 		top: -13%;
 	}
-	#speaker-1{
-		position: relative;
-		left: 2%;
+	.speaker{
+		width: 50%;
 	}
-	#speaker-2{
-		position: relative;
-		left: 3%;
+	.speaker-logo{
+		width: 35%;
 	}
-	#speaker-3{
-		position: relative;
-		left: 4%;
+	.speaker-div{
+		text-align: center;
 	}
-	#right{
-		position: absolute;
-		width: 20%;
-		right: 55%;
-		top: 80%;
-	}
-	#left{
-		position: absolute;
-		width: 20%;
-		right: 30%;
-		top: 80%;
+	.speaker-div h1{
+		font-size: 35px !important;
+		color: #000 !important;
 	}
 
 /* Sponsors */
