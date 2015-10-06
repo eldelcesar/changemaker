@@ -91,9 +91,12 @@
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite-botella.png"/></div>
 					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/aceite.svg"/></div>
 					<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ieegl.svg"/></div>
-					<!--<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>
+					-<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/dadial.png"/></div>
 					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/bonafont.png"/></div>
-					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>-->
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/nova.png"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/sarape.png"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"></div>
 				</div>
 				<div class="row">
 					<h1>Colaboradores</h1>
