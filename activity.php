@@ -47,7 +47,7 @@
 			$url_fb = $activity["url_fb"];
 			$flag= $activity["isRegister"];
 			echo '
-		<div id="activity-name" style="background-image: url('.ChangeMaker::$domain.'assets/img/'.$background.')">
+		<div id="activity-name" style="background-image: url('.ChangeMaker::$domain.'assets/img/fondos/'.$background.')">
 			<h1>'.$name.'</h1>
 			<img src="'.ChangeMaker::$domain.'assets/img/scenario-'.$scenario_id.'.svg">
 		</div>
