@@ -6,11 +6,11 @@
 	 xml:space="preserve">
 <text transform="matrix(0.1894 0 0 1 330.8667 310.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <text transform="matrix(0.1894 0 0 1 330.8667 485.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 329.8667 1025.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 329.8662 1025.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <text transform="matrix(0.1894 0 0 1 330.8667 837.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 329.8667 663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 329.8667 1192.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
-<text transform="matrix(0.1894 0 0 1 329.8667 1381.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 329.8662 663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 329.8662 1192.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
+<text transform="matrix(0.1894 0 0 1 329.8662 1381.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <text transform="matrix(0.1894 0 0 1 336.8662 2663.1719)" font-family="'SurfingCapital'" font-size="310.9643">i</text>
 <circle fill="#EE7203" cx="337.483" cy="147.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 144.3071 129.6738)" font-family="'SurfingCapital'" font-size="30.405">Registro</text>
@@ -37,7 +37,7 @@
 <text transform="matrix(1 0 0 1 399.7148 1044.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00 hrs</text>
 <text transform="matrix(1 0 0 1 400.3584 1065.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 256.4331 62.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">sabado</text>
-<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.8965 35.6597)" font-family="'sobrushitalic-italic'" font-size="34.9986">-</text>
+<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.8965 35.6602)" font-family="'sobrushitalic-italic'" font-size="34.9972">-</text>
 <circle fill="#971B81" cx="336.483" cy="1202.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 207.2598 1184.6738)" font-family="'SurfingCapital'" font-size="30.405">cena</text>
 <text transform="matrix(1 0 0 1 158.7651 1221.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">21:00-22:00 hrs</text>
@@ -69,16 +69,16 @@
 <text transform="matrix(1 0 0 1 407.3584 2182.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <circle fill="#00B6DD" cx="344.483" cy="2326.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 58.0386 2308.6738)" font-family="'SurfingCapital'" font-size="30.405">presentaciones</text>
-<text transform="matrix(1 0 0 1 170.2852 2345.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00-15:00 hrs</text>
+<text transform="matrix(1 0 0 1 170.2852 2345.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00-15:45 hrs</text>
 <text transform="matrix(1 0 0 1 138.2788 2366.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <circle fill="#1F386C" cx="344.483" cy="2504.113" r="47.998"/>
-<text transform="matrix(1 0 0 1 406.3594 2486.6738)" font-family="'SurfingCapital'" font-size="30.405">deliveracion</text>
+<text transform="matrix(1 0 0 1 406.3594 2486.6738)" font-family="'SurfingCapital'" font-size="30.405">deliberacion</text>
 <text transform="matrix(1 0 0 1 406.7148 2523.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:45-16:30 hrs</text>
 <text transform="matrix(1 0 0 1 407.3584 2544.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 247.5049 1541.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">Domingo</text>
-<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0137 2455.5254)" font-family="'SurfingCapital'" font-size="17">i</text>
+<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0127 2455.5244)" font-family="'SurfingCapital'" font-size="17">i</text>
 <circle fill="#971B81" cx="343.483" cy="2673.113" r="47.998"/>
-<text transform="matrix(1 0 0 1 12.0845 2655.6738)" font-family="'SurfingCapital'" font-size="30.405">cierre y ganadoes</text>
+<text transform="matrix(1 0 0 1 2.0845 2655.6738)" font-family="'SurfingCapital'" font-size="30.405">cierre y ganadores</text>
 <text transform="matrix(1 0 0 1 170.6929 2692.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">16:30-17:30 hrs</text>
 <text transform="matrix(1 0 0 1 137.2788 2713.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 </svg>
