@@ -37,7 +37,7 @@
 <text transform="matrix(1 0 0 1 399.7148 1044.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:00 hrs</text>
 <text transform="matrix(1 0 0 1 400.3584 1065.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 256.4331 62.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">sabado</text>
-<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.8965 35.6602)" font-family="'sobrushitalic-italic'" font-size="34.9972">-</text>
+<text transform="matrix(0.8529 -0.522 0.522 0.8529 307.896 35.6606)" font-family="'sobrushitalic-italic'" font-size="34.9958">-</text>
 <circle fill="#971B81" cx="336.483" cy="1202.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 207.2598 1184.6738)" font-family="'SurfingCapital'" font-size="30.405">cena</text>
 <text transform="matrix(1 0 0 1 158.7651 1221.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">21:00-22:00 hrs</text>
@@ -76,7 +76,7 @@
 <text transform="matrix(1 0 0 1 406.7148 2523.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">15:45-16:30 hrs</text>
 <text transform="matrix(1 0 0 1 407.3584 2544.9492)" font-family="'Geomanist-Regular'" font-size="17.6007">2do piso Biblioteca</text>
 <text transform="matrix(1 0 0 1 247.5049 1541.8545)" font-family="'sobrushitalic-italic'" font-size="49.6212">Domingo</text>
-<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0127 2455.5244)" font-family="'SurfingCapital'" font-size="17">i</text>
+<text transform="matrix(1.1163 0.6542 -0.5057 0.8627 569.0117 2455.5244)" font-family="'SurfingCapital'" font-size="17">i</text>
 <circle fill="#971B81" cx="343.483" cy="2673.113" r="47.998"/>
 <text transform="matrix(1 0 0 1 2.0845 2655.6738)" font-family="'SurfingCapital'" font-size="30.405">cierre y ganadores</text>
 <text transform="matrix(1 0 0 1 170.6929 2692.7363)" font-family="'Geomanist-Medium'" font-size="17.6007">16:30-17:30 hrs</text>
