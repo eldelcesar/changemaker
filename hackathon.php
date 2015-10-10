@@ -91,7 +91,7 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"></div>
-				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/fhe.png"/></div>
+				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/fhe.png"/></div>
 				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4"></div>	
 			</div>
 		</div>
