@@ -27,7 +27,7 @@
 	?>
 	
 	<!-- Main -->
-	<a href="http://goo.gl/forms/OkKxYzchfq" target="_blank"><img id="register" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/registro.png"></a>
+	<a href="https://drive.google.com/file/d/0BxcYa7ChTQ-RUF8yZ1BSbTRXX0E/view" target="_blank"><img id="register" src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/registro.png"></a>
 	<div id="hack">
 		<ul id="scene">
 		  	<li class="layer" data-depth="0.99"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/hack/parte2.png"></li>
