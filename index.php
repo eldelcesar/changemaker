@@ -128,6 +128,9 @@
 					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/wiki.png"/></div>
 					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/fuckup.jpg"/></div>
 					<div class="col-xs-6 col-sm-3 col-md-3 col-lg-3"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/amnistia.png"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/unreasonable.png"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/ecotlan.jpg"/></div>
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4"><img src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/floresse.png"/></div>
 				</div>
 			</div>
 			<img id="sponsors-dots" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors-dots.svg"/>
