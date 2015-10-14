@@ -91,7 +91,7 @@
 				</a>
 				<h1>Sabina Malacón</h1>
 				<a href="http://unreasonablemexico.org/">
-					<img class="speaker-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/unreasonable.pngv"/>
+					<img class="speaker-logo" src="<?php echo ChangeMaker::$domain; ?>assets/img/sponsors/unreasonable.png"/>
 				</a>
 			</div>
 		</div>
